@@ -1,0 +1,62 @@
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字+編碼+權重（決定重碼的次序、可選）,用tab键间隔
+
+iOS	ios
+macOS	macos
+Mac	mac
+B站	bzhan
+HarmonyOS	hm	2
+T恤	txu
+U盤	upan
+up主	upzhu
+过拟合	gnh
+欠拟合	qnh
+前端	qian duan
+
+
+
+鼠须管 rime    3
+https://rime.im/    rime    2
+Squirrel    rime    1
+
+```base	bb	1
+版本	bb	2
+不用	bb	3
+
+
+这段代码有什么错误吗	zd	1
+这段	zd	2
+自动	zd	3
+
+1354602179@qq.com	qq	1
+QQ	qq	2
+请求	qq	3
+
+```python	pp	1
+匹配	pp	2
+批评	pp	3	
+
+```Markdown	mm	1
+密码	mm	2
+命名	mm	3
+
+Jupyter lab	jy	1
+基因	jy	2
+基于	jy	3
+
+```html	hh	1
+很好	hh	2
+哈哈	hh	3
+
+下面代码的含义是什么	xmd	1
+
+# 同时	tshi	
+# 数量	shul	
+# 同时	tongs	
+# 进行	jinx
+# 稳定	wend
+
+# 我	w	
+# 什么	sm
+# iPhone	i
+好	h

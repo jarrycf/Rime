@@ -1,0 +1,42 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	40
+#@/user_id	c768ef2d-e87d-4330-bf27-256461b2f71b
+bootstrap 	bootstrap	c=1 d=0.955997 t=40
+bush 	bush	c=1 d=0.955997 t=40
+code 	code	c=1 d=0.895834 t=40
+doit 	doit	c=1 d=0.955997 t=40
+face 	face	c=1 d=0.970446 t=40
+github 	GitHub	c=1 d=0.985112 t=40
+gwine 	gwine	c=1 d=0.99005 t=40
+hi 	hi	c=1 d=0.980199 t=40
+hong 	hong	c=1 d=0.937067 t=40
+html 	HTML	c=2 d=1.80869 t=40
+iban 	iban	c=1 d=0.965605 t=40
+idea 	idea	c=2 d=1.83712 t=40
+ieper 	ieper	c=1 d=0.97531 t=40
+iiwi 	iiwi	c=1 d=0.970446 t=40
+import 	import	c=2 d=1.83244 t=40
+into 	into	c=1 d=0.980199 t=40
+irene 	irene	c=1 d=0.900325 t=40
+isai 	isai	c=1 d=0.980199 t=40
+jibe 	jibe	c=1 d=0.927743 t=40
+mail 	mail	c=1 d=0.937067 t=40
+normal 	normal	c=1 d=0.951229 t=40
+print 	print	c=1 d=0.946485 t=40
+python 	python	c=1 d=0.97531 t=40
+santa 	santa	c=1 d=0.951229 t=40
+self 	self	c=1 d=0.923116 t=40
+ship 	ship	c=2 d=1.75621 t=40
+shul 	shul	c=2 d=1.92688 t=40
+sigmoid 	sigmoid	c=1 d=0.960789 t=40
+size 	size	c=1 d=0.951229 t=40
+spring 	spring	c=1 d=0.985112 t=40
+tshi 	tshi	c=6 d=5.76647 t=40
+uele 	uele	c=1 d=1 t=40
+ui 	UI	c=1 d=0.88692 t=40
+went 	went	c=3 d=2.57926 t=40
+yeuk 	yeuk	c=1 d=0.946485 t=40
+your 	your	c=1 d=0.941765 t=40
